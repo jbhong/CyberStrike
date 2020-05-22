@@ -1,0 +1,6 @@
+Spear phishing is used to target specific individuals and businesses. This involves making emails less generic, so they end up looking like they came from legitimate sources:1
+Clone phishing is used to create copies of legitimate emails sent from trusted organizations but involves added links that redirect the user to malicious websites:2
+Whaling phishing attacks targets high profile employees e.g. the chief executive officers by tricking them into giving away their sensitive company data:3
+Pop-up phishing uses pop-up ads to trick users into installing malware on their devices:4
+Socket layer encryption (SSL) is a standard security technology that involves using https over http:5
+Secure Sockets Layer (SSL) establishes an encrypted link protecting the transferred data between the server and client. Sensitive data that is transmitted e.g. credit card numbers, social security numbers, and login credentials can now be protected:6

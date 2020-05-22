@@ -1,0 +1,6 @@
+1:What is the process of authentication?:1.	Verifying identity:Accessing the system:Verifying the data you can access:1
+2:Phishing is used to...?:Steal usernames and passwords through trial and error:Steal sensitive information:Identity theft:2
+3:Authentication through MFA includes which three factors?:Something you know, have and location:Something you know, own and possess:Something you know, possess and inherit :3
+4:Examples of 3 different authentication factors for MFA are?: A. Password, phone, retina scan  B. Username, password, email C. Password, phone, fingerprint:A,B:A,C:All the above:2
+5:Phishing is achieved through which method?:Spying:Link manipulation:Malware:2
+6:The fewer the authentication factors, the greater the security?:True:False::2

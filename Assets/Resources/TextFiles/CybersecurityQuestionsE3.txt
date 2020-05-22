@@ -1,0 +1,8 @@
+1:Steganography can be implemented through the following - A. Password, photos B. Sound, photos C. URLs, photos:A:B:A and C:2
+2:The only way to carry out XSS is through Reflected XSS?:True:False::2
+3:Reflected XSS involves malicious script in an HTPSS request?:True:False::2
+4:Steganography to used to hide messages in a medium called clevertext?:True:False::2
+5:IDS network-based topology is used to monitor networks for any suspicious activity by placing the sensors on a host:True:False::2
+6:The steganography process is as follows - A. Encrypt message, steganogram output B. Encrypt message, embed info in clevertext, steganogram output C. Encrypt message, embed info in clovertext, steganogram output :A:B:C:2
+7:IDS comes in two major categories:Host and Hex:Network and IPS:None of the above:3
+8:IDS is a .......... used to monitor network traffic?:Malware:Software application:Authentication form:2

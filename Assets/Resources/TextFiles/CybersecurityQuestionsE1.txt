@@ -1,0 +1,4 @@
+1:What is the correct definition of malware?:Malicious code that causes damage without the awareness of the user.:Malicious code that causes damage with the awareness of the user.:Malicious code that updates your antivirus:1
+2:What are the different types of malware?:Virus, Hex, Trojan:Worm, Spyware, Adware:IPsec, Virus, Worm:2
+3:Viruses are planted through which method?:Opening a text message:Opening email:Opening an email attachment:3
+4:To reduce the risk of malware you can - :Avoid opening texts:Update your antivirus:Avoid opening your computer:2

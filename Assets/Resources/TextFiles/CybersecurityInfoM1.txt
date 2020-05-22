@@ -1,0 +1,4 @@
+Virus, one type of malware is spread through infected email attachments and file sharing:1
+Worms, one type of malware, is a standalone software which is spread through social engineering:2
+Malware can be combated through backing up data often, advanced analytics and cloud security platforms:3
+One distribution channel of malware was is self-propagation which applies to viruses, where the virus can spread from computer to computer through infected file executables:4

@@ -1,0 +1,6 @@
+1:Which of these emails are not suspicious?:member@ebay.com:michaelJames@ebay.com:paypalonline@mailworld.com:2
+2:Websites using SSL always start with:http:https:htt:2
+3:The padlock on your URL browser indicates...:A validation that the website has SSL certification and is valid:It doesn't mean anything, all URL's have it: That it's a professional website:1
+4:HTTPS stands for...:Hypertext Transfer Protocol Safe:Hypertext Transfer Protocol Secure:Hypertext Transfer Protocol Security:2
+5:Which phishing type involves adding malicious links into emails that look like they had been sent from trusted organizations:Clone:Whaling:Spear:1
+6:What's the most likely explanation for this scenario - you receive an email claiming to be from your bank that gives you a hyperlink that contains your banks name but then takes you to a URL with a different name.:The webpage that your taken to has been hijacked to redirect you:You clicked on the wrong part of the hyperlink:The displayed text for the hyperlink doesn't match the place it links to:3

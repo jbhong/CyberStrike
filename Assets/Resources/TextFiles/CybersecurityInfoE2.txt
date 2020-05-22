@@ -1,0 +1,6 @@
+Phishing is used to steal individuals confidential information e.g. passwords and credit card information:1
+Phishing is achieved through link manipulation, website forgery, infected attachments and malicious pop-up boxes:2
+Phishing can be reduced through multifactor authentication (MFA) or two factor authentication (2FA):3
+Authentication is used to verify the identity of users:4
+Two factor authentication (2FA) combines something you know (password & username) with something you possess (smartphone):5
+Multi-factor authentication (MFA) involves combining three authentication factors something you know (username/password), something you possess (phone) and something you inherit (fingerprint/retina scan):6

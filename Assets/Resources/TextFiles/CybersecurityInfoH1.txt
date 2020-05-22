@@ -1,0 +1,4 @@
+Spyware, a type of malware is used to infiltrate computing devices, steal internet usage data and sensitive information:1
+Legitimate software can be used as a disguise for spyware attacks in the form of Trojans:2
+Adware, a type of malware is embedded in advertisements and is used to track browsing history:3
+System monitor spyware is used to capture a user’s actions on their computers e.g. keystrokes, emails, chat-room dialogs, websites visited:4

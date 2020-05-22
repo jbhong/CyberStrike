@@ -1,0 +1,4 @@
+1:Spyware attacks occur in the form of …………:Adware:Trojans:System monitors:2
+2:Which type of spyware monitors a individuals computer actions?:Adware:Trojan:System monitors:3
+3:Spyware can infect your computer when you...: A. Download software from a reliable source B. Accept a prompt or pop-up without reading it first C. None of the above:3
+4:Which form of spyware is often disguised as advertisements?:Adware:Trojan:System monitors:1

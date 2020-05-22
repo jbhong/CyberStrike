@@ -1,0 +1,4 @@
+1:This type of standalone malware is spread through infected email attachments:Social Engineering:Viruses:Worms:3
+2:The distribution channel that involves spreading through infected file executables is:Social engineering:Self-propagation:Unsolicited emails:2
+3:Methods that fight malware attacks:Do not open any emails:Data backups:Avoid file sharing:2
+4:Viruses were spread around the police station through:File Sharing:Passwords:Advanced analytics:1

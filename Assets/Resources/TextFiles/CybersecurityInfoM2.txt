@@ -1,0 +1,6 @@
+Phishing is used to access and steal confidential police files and reports. This is done through link manipulation – emails presenting links that spoof legitimate URLS:1
+Phishing can be achieved through website forgery – JavaScript commands that make harmful website URLs look legitimate:2
+Email filters prevents phishing through machine learning that uses DMARC protocol to prevent email spoofing:3
+Phishing emails can be detected through spelling mistakes, unusual senders or unexpected .exe attachments:4
+Phishing can be prevented through two factor authentication (2FA). This incorporates two methods of identity confirmation: something you know and something you own:5
+Multi-Factor Authentication (MFA) requires 3 authentication factors: something that the user possesses, something known and inherent factors. This is more advanced than 2FA as it implements further security authentication factors:6

@@ -1,0 +1,8 @@
+1:Which steganography algorithm hides messages in photos by calculating the frequencies of the image and replacing some of them?:LSA:DCT:Append type:2
+2:The steganography algorithm that involves padding is:DCT:LSB:Append type:3
+3:In the LSB algorithm, which bit is changed in order to embed the data into the photo:0110010 (last digit):0110010 (first digit):0110010 (2nd last digit):1
+4:.......... is used to monitor traffic network:Steganography:XSS:IDS:3
+5:One IDS type that employs adding sensors on an endpoint is:VM-based:Network-based:Host-based:3
+6:Which of the following is a type of XSS:Append type:Reflected:CSP:2
+7:Steganography is used to hide messages between employees by embedding these messages most commonly in:Passwords:Files:None of them:3
+8:........is used to spy on individuals browsing history to identify potential cyber-attacks:XSS:IDS:None of them:3

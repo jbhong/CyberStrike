@@ -1,0 +1,8 @@
+Steganography is used to hide messages, with the most common steganography being embedded images:1
+Some steganography algorithms include: LSB, DCT, and Append types:2
+Steganography algorithm 1 - LSB (Least Significant Bit), embeds data in the photo by replacing the least significant bit in a photo:3
+Steganography algorithm 2 - DCT (Discrete Cosine Transform). Calculates the "frequencies" of the image and then replaces some of them:4
+Steganography algorithm 3 - Append type. It appends the data to the end of the file as padding:5
+Cross-site scripting (XSS) was implemented by using a web application to send malicious code. Three types of XSS attacks are: Reflected XSS, Stored XSS, DOM-based XSS:6
+Intrusion detection software (IDS) monitors traffic on networks. IDE is used to block malicious traffic and is programmed to analyse traffic and identify patterns in that traffic that may indicate a cyberattack of various sorts:7
+There are so many types of IDS: host-based, VM-based, stack-based. Differs based on the location of the sensors, ex. network-based IDE implements the sensors on the network:8

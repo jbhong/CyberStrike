@@ -1,0 +1,8 @@
+1:To retrieve data that has been encoded and encrypted, the following two methods need to be used:Steganalysis and Sandboxing:Steganalysis and cryptanalysis:Vulnerability scanning and cryptanalysis:2
+2:Least significant bit steganography hides messages by changing the:DCT:LSK:None:3
+3:The second step to intrusion detection is..:Assess:Monitor:Identify:3
+4:Which of the following IDS are behavior based?:Anomaly:Hybrid:Misuse:1
+5:Which IDS model stores patterns of well-known attacks in databases:Hybrid:Anomaly:Misuse:3
+6:Which of these options include a software framework or programming language that is used to implement XSS attacks?:JavaScript, ActiveY:JavaScript,Java:JavaScript,VBScript:3
+7:Select the missing step in a reflected XSS attack - 1st.Malicious script sent to the target. 2nd.Target clicks the link sent by the attacker. 3rd.... ??? 4th.Browser sends the session cookies to the attacker: Script is executed and reflected back to the target browser :The attacker injects a payload in the website's database by submitting a vulnerable form with:The website serves the victim's browser the page with the attacker's payload as part of the HTML body.:1
+8:Which IDS model is accurate and slow compared to the others?:Anomaly:Hybrid:Misuse:3

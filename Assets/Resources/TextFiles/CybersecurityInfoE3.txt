@@ -1,0 +1,8 @@
+Steganography is used to hide messages in a medium called covertext used to communicate between individuals:1
+Steganography involves 3 stages: encryption, embed info in covertext and output steganogram:2
+In steganography, messages can be hidden in the form of text, photos, sound files etc.:3
+Cross-site scripting (XSS) is an injection attack that is implemented by using a web application to send malicious code:4
+One type of XSS is reflected XSS - malicious script in an HTTP request:5
+Cross-site scripting is used to access personal data and capture login credentials:6
+Intrusion detection software (IDS) is a software application to monitor network traffic:7
+Two intrusion detection software (IDS) categories are host-based and network-based, which differs by the location of the sensors:8

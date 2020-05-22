@@ -1,0 +1,8 @@
+LSB steganography is used to hide the messages sent between individuals by altering the least significant bit for each colour in an images colour coding:1
+Text steganography is used to hide messages sent between individuals by changing the number of tabs, white spaces, capital letters etc. in sentences:2
+Steganography combined with cryptography adds a layer of complexity to the message as it hides it and it must be decoded to understand:3
+Three steps to a good Intrusion Detection System (IDS) are: Monitor (analyse hosts/networks), Identify (any misuse/abnormal activities) and Asses (the severity of the situation and alert administrators):4
+Anomaly-based IDS monitors system behaviour and identifies any deviation from normal usage patterns:5
+Misuse-based IDS is signature based which represents patterns of well-known attacks that are stored in the database (slow process) to detect suspicious activity early:6
+Cross site scripting (XSS) includes malicious code in web pages. There were so many ways to attack – JavaScript, VBScript, ActiveX etc.:7
+One cross site scripting (XSS) attack is malicious Javascript which is used to access every user's cookies:8

@@ -1,0 +1,8 @@
+A virus is a type of malicious code or program written to alter the way a computer operates and can be spread through email and text message attachments, Internet file downloads, social media scam links, shady App downloads.:1
+Malware is a program or file designed to be disruptive, invasive and harmful to your computer. Types of malware include viruses, spyware, adware and worms. :2
+Encryption is the process of taking plain text (e.g. text in a message or email) and scrambling it into an unreadable format called cipher text. This helps protect your online privacy, reduces chances of hacking, regulations demand it.:3
+HTTPS (Hypertext Transfer Protocol) is the secure version of HTTP, which is a primary protocol used to send data between a web browser and a website. HTTPS makes unsecure mediums e.g. public WIFI less vulnerable to interception.:4
+Spyware is a common type of malware, is used to spy on the users behaviour.Some spyware uses what is called a keylogger to record the users keystrokes, giving the attacker access to sensitive information including usernames and passwords.:5
+VPN (Virtual Private Network) is an internet security service that allows users to access the Internet as though they were connected to a private network. VPN is used to protect against snooping on public WiFi.:6
+Firewall is a system designed to prevent unauthorized access to or from a private network.They are generally designed to protect network traffic and connections.:7
+AI (Artificial intelligence) is defined as having machines do smart or intelligent things on their own without human guidance. Common uses are to discover, predict, justify, act, and learn about potential cybersecurity threats, without needing much human intervention.:8
